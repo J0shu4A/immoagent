@@ -1,0 +1,422 @@
+[
+  {
+    "id": "001",
+    "category": "Miete",
+    "question": "Wann ist die Miete fällig?",
+    "answer": "Die Miete ist spätestens bis zum dritten Werktag eines Monats zu zahlen. Bitte beachten Sie, dass Wochenenden und gesetzliche Feiertage nicht als Werktage zählen. Eine pünktliche Zahlung hilft, Mahngebühren zu vermeiden.",
+    "tags": ["miete", "zahlung", "fälligkeit", "werktag"]
+  },
+  {
+    "id": "002",
+    "category": "Miete",
+    "question": "Wie kann ich meine Miete bezahlen?",
+    "answer": "Die Miete kann bequem per Überweisung oder SEPA-Lastschrift bezahlt werden. Für die Überweisung finden Sie die Bankdaten in Ihrem Mietvertrag. Bei SEPA-Lastschrift wird die Miete automatisch von Ihrem Konto abgebucht.",
+    "tags": ["miete", "zahlung", "lastschrift", "überweisung", "sepa"]
+  },
+  {
+    "id": "003",
+    "category": "Miete",
+    "question": "Was passiert bei verspäteter Mietzahlung?",
+    "answer": "Bei verspäteter Mietzahlung können Mahngebühren anfallen. Bitte kontaktieren Sie uns frühzeitig, bevor die Fälligkeit verstreicht. Gemeinsam prüfen wir mögliche Lösungen wie Ratenzahlung oder Stundung. Ignorieren Sie Mahnungen nicht, da dies rechtliche Konsequenzen haben kann.",
+    "tags": ["miete", "mahnung", "zahlung", "verzug", "mahngebühren"]
+  },
+  {
+    "id": "004",
+    "category": "Miete",
+    "question": "Kann ich eine Ratenzahlung für rückständige Miete vereinbaren?",
+    "answer": "Ja, in begründeten Fällen ist eine Ratenzahlungsvereinbarung möglich. Bitte kontaktieren Sie uns schriftlich über das Mieterportal und schildern Sie Ihre Situation. Wir prüfen den Antrag individuell und kommen auf Sie zu.",
+    "tags": ["miete", "ratenzahlung", "rückstände", "vereinbarung"]
+  },
+  {
+    "id": "005",
+    "category": "Miete",
+    "question": "Wie erhalte ich eine Mietbescheinigung?",
+    "answer": "Eine Mietbescheinigung können Sie jederzeit schriftlich über das Mieterportal oder per E-Mail beantragen. Die Bescheinigung wird in der Regel innerhalb von 3 Werktagen ausgestellt und enthält Angaben zu Mietbeginn, Mietkosten und Adresse.",
+    "tags": ["miete", "bescheinigung", "dokument", "nachweis"]
+  },
+  {
+    "id": "006",
+    "category": "Nebenkosten",
+    "question": "Wann erhalte ich die Nebenkostenabrechnung?",
+    "answer": "Die Nebenkostenabrechnung wird einmal jährlich erstellt, in der Regel innerhalb von 12 Monaten nach Ende des Abrechnungszeitraums. Sie erhalten die Abrechnung per Post oder über das Mieterportal. Bei Fragen zur Abrechnung stehen wir Ihnen gerne zur Verfügung.",
+    "tags": ["nebenkosten", "abrechnung", "jährlich"]
+  },
+  {
+    "id": "007",
+    "category": "Nebenkosten",
+    "question": "Wie werden die Nebenkosten berechnet?",
+    "answer": "Die Berechnung erfolgt gemäß den im Mietvertrag vereinbarten Umlageschlüsseln, zum Beispiel nach Wohnfläche oder Personenzahl. Typische Nebenkostenpositionen sind Heizung, Wasser, Müllentsorgung, Hausmeister und Gebäudeversicherung.",
+    "tags": ["nebenkosten", "berechnung", "umlageschlüssel"]
+  },
+  {
+    "id": "008",
+    "category": "Nebenkosten",
+    "question": "Kann ich Belege zur Abrechnung einsehen?",
+    "answer": "Ja, Sie haben das Recht, die relevanten Belege zur Nebenkostenabrechnung einzusehen. Bitte stellen Sie eine schriftliche Anfrage über das Mieterportal. Wir vereinbaren dann einen Termin zur Belegeinsicht oder stellen Ihnen Kopien zur Verfügung.",
+    "tags": ["nebenkosten", "belege", "einsicht", "recht"]
+  },
+  {
+    "id": "009",
+    "category": "Nebenkosten",
+    "question": "Was passiert wenn ich Nachzahlung leisten muss?",
+    "answer": "Wenn sich aus der Abrechnung eine Nachzahlung ergibt, wird Ihnen ein Zahlungsziel von mindestens 30 Tagen eingeräumt. Sie können die Nachzahlung per Überweisung leisten. Bei finanziellen Engpässen kontaktieren Sie uns bitte frühzeitig.",
+    "tags": ["nebenkosten", "nachzahlung", "abrechnung"]
+  },
+  {
+    "id": "010",
+    "category": "Nebenkosten",
+    "question": "Was ist in den Nebenkosten enthalten?",
+    "answer": "Zu den umlagefähigen Nebenkosten gehören typischerweise: Heizkosten, Warmwasser, Kaltwasser und Entwässerung, Müllabfuhr, Straßenreinigung, Hausmeisterkosten, Gebäudeversicherung, Gartenpflege und Aufzugswartung. Die genauen Positionen entnehmen Sie Ihrem Mietvertrag.",
+    "tags": ["nebenkosten", "bestandteile", "heizung", "wasser", "müll"]
+  },
+  {
+    "id": "011",
+    "category": "Reparaturen",
+    "question": "Wie melde ich einen Schaden?",
+    "answer": "Schäden können telefonisch während der Geschäftszeiten oder jederzeit über das Mieterportal unter 'Schadensmeldung' gemeldet werden. Bitte beschreiben Sie den Schaden möglichst genau und fügen Sie wenn möglich Fotos bei. Sie erhalten eine Eingangsbestätigung mit Ticketnummer.",
+    "tags": ["schaden", "reparatur", "meldung", "portal"]
+  },
+  {
+    "id": "012",
+    "category": "Reparaturen",
+    "question": "Was gilt als Notfall?",
+    "answer": "Als Notfall gelten: Rohrbrüche und Wasseraustritte, Heizungsausfall im Winter (unter 5 Grad Außentemperatur), kompletter Stromausfall, defekte Eingangstür oder Schloss, Gasgeruch. Bei Notfällen erreichen Sie unseren 24h-Notdienst unter 0800 000 0000.",
+    "tags": ["notfall", "reparatur", "rohrbruch", "heizung", "strom", "notdienst"]
+  },
+  {
+    "id": "013",
+    "category": "Reparaturen",
+    "question": "Wie melde ich einen Wasserschaden?",
+    "answer": "Bei einem Wasserschaden: 1. Wasserzufuhr sofort absperren falls möglich. 2. Notdienst anrufen: 0800 000 0000. 3. Schaden über das Portal melden und Fotos hochladen. 4. Betroffene Gegenstände dokumentieren. Handeln Sie schnell um Folgeschäden zu vermeiden.",
+    "tags": ["wasserschaden", "notfall", "rohrbruch", "absperren"]
+  },
+  {
+    "id": "014",
+    "category": "Reparaturen",
+    "question": "Wer bezahlt Reparaturen?",
+    "answer": "Die Kostenübernahme richtet sich nach Ursache und Mietvertrag. Schäden durch normalen Verschleiß trägt der Vermieter. Schäden durch unsachgemäßen Gebrauch oder Fahrlässigkeit des Mieters werden dem Mieter in Rechnung gestellt. Kleinreparaturen bis zu einem im Vertrag festgelegten Betrag trägt der Mieter.",
+    "tags": ["reparatur", "kosten", "verschleiß", "haftung"]
+  },
+  {
+    "id": "015",
+    "category": "Reparaturen",
+    "question": "Kann ich selbst einen Handwerker beauftragen?",
+    "answer": "Bitte stimmen Sie dies vorab schriftlich mit der Hausverwaltung ab. Eigenmächtig beauftragte Handwerker können nur in echten Notfällen ohne vorherige Absprache beauftragt werden. In diesem Fall müssen Sie die Rechnung einreichen und wir prüfen die Kostenübernahme.",
+    "tags": ["handwerker", "reparatur", "beauftragen", "genehmigung"]
+  },
+  {
+    "id": "016",
+    "category": "Reparaturen",
+    "question": "Wie lange dauert es bis mein Schaden behoben wird?",
+    "answer": "Notfälle werden innerhalb von 24 Stunden bearbeitet. Dringende Reparaturen innerhalb von 3-5 Werktagen. Standard-Reparaturen innerhalb von 2-4 Wochen. Sie werden über den Bearbeitungsstatus per E-Mail oder über das Mieterportal informiert.",
+    "tags": ["reparatur", "dauer", "bearbeitungszeit", "frist"]
+  },
+  {
+    "id": "017",
+    "category": "Reparaturen",
+    "question": "Meine Heizung funktioniert nicht. Was soll ich tun?",
+    "answer": "Bei Heizungsausfall im Winter kontaktieren Sie sofort unseren Notdienst unter 0800 000 0000. Dieser ist 24 Stunden erreichbar. Bitte melden Sie auch den Ausfall über das Mieterportal. Überprüfen Sie vorher ob der Thermostat korrekt eingestellt ist und der Heizkörper nicht entlüftet werden muss.",
+    "tags": ["heizung", "ausfall", "notfall", "winter", "notdienst"]
+  },
+  {
+    "id": "018",
+    "category": "Reparaturen",
+    "question": "Was sind Kleinreparaturen und muss ich sie selbst bezahlen?",
+    "answer": "Kleinreparaturen sind Reparaturen an häufig genutzten Gegenständen wie Türschlössern, Lichtschaltern oder Wasserhähnen bis zu einem bestimmten Betrag pro Reparatur (meist 75-150 Euro) und pro Jahr. Die genaue Regelung entnehmen Sie Ihrem Mietvertrag.",
+    "tags": ["kleinreparatur", "kosten", "mieter", "mietvertrag"]
+  },
+  {
+    "id": "019",
+    "category": "Mietvertrag",
+    "question": "Wie kann ich meinen Mietvertrag kündigen?",
+    "answer": "Die Kündigung muss schriftlich per Brief oder über das Mieterportal erfolgen. Sie muss eigenhändig unterschrieben sein. Bitte achten Sie auf die Kündigungsfrist von drei Monaten zum Monatsende. Die Kündigung muss dem Vermieter spätestens am dritten Werktag des ersten Monats der Kündigungsfrist zugehen.",
+    "tags": ["kündigung", "mietvertrag", "schriftlich", "frist"]
+  },
+  {
+    "id": "020",
+    "category": "Mietvertrag",
+    "question": "Welche Kündigungsfrist gilt?",
+    "answer": "Für Mieter gilt in der Regel eine gesetzliche Kündigungsfrist von drei Monaten zum Monatsende. Beispiel: Kündigung am 3. Januar wirksam zum 30. April. Im Mietvertrag können abweichende Fristen vereinbart sein. Prüfen Sie Ihren Vertrag oder fragen Sie uns.",
+    "tags": ["kündigung", "frist", "drei monate", "monatsende"]
+  },
+  {
+    "id": "021",
+    "category": "Mietvertrag",
+    "question": "Kann ich einen Nachmieter vorschlagen?",
+    "answer": "Ja, Sie können geeignete Nachmieter an uns weiterleiten. Der Nachmieter muss unsere Bonitätsprüfung bestehen und die Anforderungen erfüllen. Die Entscheidung über die Annahme liegt beim Vermieter. Ein akzeptierter Nachmieter kann Ihre Kündigungsfrist verkürzen.",
+    "tags": ["nachmieter", "mietvertrag", "kündigung", "vorschlag"]
+  },
+  {
+    "id": "022",
+    "category": "Mietvertrag",
+    "question": "Kann ich meinen Mietvertrag auf eine andere Person übertragen?",
+    "answer": "Eine Übertragung des Mietvertrags auf eine andere Person ist nur mit ausdrücklicher Zustimmung des Vermieters möglich. Bitte stellen Sie eine schriftliche Anfrage über das Mieterportal. Wir prüfen den Fall individuell.",
+    "tags": ["mietvertrag", "übertragung", "person", "zustimmung"]
+  },
+  {
+    "id": "023",
+    "category": "Mietvertrag",
+    "question": "Darf ich in meiner Wohnung ein Gewerbe betreiben?",
+    "answer": "Die gewerbliche Nutzung der Wohnung ist grundsätzlich nur mit Zustimmung des Vermieters erlaubt. Bitte reichen Sie eine schriftliche Anfrage ein und beschreiben Sie die Art des Gewerbes. Bürotätigkeiten ohne Kundenverkehr werden häufig genehmigt.",
+    "tags": ["gewerbe", "mietvertrag", "nutzung", "zustimmung"]
+  },
+  {
+    "id": "024",
+    "category": "Mietvertrag",
+    "question": "Kann ich einen Untermieter aufnehmen?",
+    "answer": "Die Untervermietung ist nur mit schriftlicher Genehmigung der Hausverwaltung zulässig. Reichen Sie bitte eine Anfrage mit Name und Angaben zur Person des Untermieters ein. Bei berechtigtem Interesse (z.B. vorübergehender Auslandsaufenthalt) wird die Genehmigung in der Regel erteilt.",
+    "tags": ["untermieter", "untervermietung", "genehmigung", "mietvertrag"]
+  },
+  {
+    "id": "025",
+    "category": "Einzug",
+    "question": "Wann erhalte ich meine Schlüssel?",
+    "answer": "Die Schlüssel werden beim Einzugstermin im Rahmen der Wohnungsübergabe ausgehändigt. Der genaue Termin wird vorab mit Ihnen vereinbart. Sie erhalten in der Regel alle Schlüssel inklusive Briefkastenschlüssel, Haustürschlüssel und Wohnungsschlüssel.",
+    "tags": ["einzug", "schlüssel", "übergabe", "termin"]
+  },
+  {
+    "id": "026",
+    "category": "Einzug",
+    "question": "Wie vereinbare ich einen Übergabetermin?",
+    "answer": "Kontaktieren Sie die Hausverwaltung mindestens zwei Wochen vor Ihrem geplanten Einzugsdatum. Sie können den Termin telefonisch oder über das Mieterportal anfragen. Bitte bringen Sie zum Übergabetermin einen Lichtbildausweis mit.",
+    "tags": ["einzug", "übergabe", "termin", "vereinbarung"]
+  },
+  {
+    "id": "027",
+    "category": "Einzug",
+    "question": "Erhalte ich ein Übergabeprotokoll?",
+    "answer": "Ja, bei der Übergabe wird ein detailliertes Protokoll erstellt. Darin werden Zählerstände, Mängel und der Zustand der Wohnung dokumentiert. Beide Parteien unterschreiben das Protokoll. Sie erhalten eine Kopie für Ihre Unterlagen.",
+    "tags": ["einzug", "protokoll", "übergabe", "mängel", "zählerstand"]
+  },
+  {
+    "id": "028",
+    "category": "Einzug",
+    "question": "Was muss ich beim Einzug beachten?",
+    "answer": "Beim Einzug sollten Sie: Alle Räume und Einrichtungen genau prüfen, Mängel sofort im Protokoll vermerken, Zählerstände notieren, Schlüssel zählen und quittieren. Melden Sie festgestellte Mängel innerhalb von 14 Tagen nach Einzug schriftlich nach.",
+    "tags": ["einzug", "checkliste", "mängel", "protokoll"]
+  },
+  {
+    "id": "029",
+    "category": "Einzug",
+    "question": "Wie hoch ist die Kaution und wann muss sie bezahlt werden?",
+    "answer": "Die Höhe der Kaution ist im Mietvertrag festgelegt, gesetzlich maximal drei Nettokaltmieten. Sie muss spätestens zu Beginn des Mietverhältnisses gezahlt werden. Zahlung in bis zu drei gleichen Monatsraten ist möglich. Die Kaution wird verzinst auf einem Treuhandkonto verwahrt.",
+    "tags": ["kaution", "einzug", "zahlung", "mietbeginn"]
+  },
+  {
+    "id": "030",
+    "category": "Auszug",
+    "question": "Wie läuft die Wohnungsabnahme ab?",
+    "answer": "Die Wohnungsabnahme findet am letzten Miettag oder nach Vereinbarung statt. Die Wohnung wird gemeinsam besichtigt und alle Räume, Einrichtungen und Zählerstände werden dokumentiert. Festgestellte Mängel werden im Abnahmeprotokoll vermerkt. Beide Parteien unterschreiben das Protokoll.",
+    "tags": ["auszug", "abnahme", "protokoll", "zählerstand"]
+  },
+  {
+    "id": "031",
+    "category": "Auszug",
+    "question": "Wann bekomme ich meine Kaution zurück?",
+    "answer": "Die Kaution wird nach Abschluss aller Prüfungen zurückgezahlt, in der Regel innerhalb von 3 bis 6 Monaten nach Auszug. Die Frist ergibt sich aus der Zeit für die Nebenkostenabrechnung und Prüfung eventueller Schäden. Etwaige Kosten für Schäden oder ausstehende Nebenkostennachzahlungen werden verrechnet.",
+    "tags": ["kaution", "auszug", "rückzahlung", "frist"]
+  },
+  {
+    "id": "032",
+    "category": "Auszug",
+    "question": "Muss ich die Wohnung renovieren?",
+    "answer": "Die Renovierungspflicht richtet sich nach Ihrem Mietvertrag. Viele Schönheitsreparaturklauseln sind unwirksam. Generell müssen Sie die Wohnung in dem Zustand zurückgeben, in dem Sie sie übernommen haben (abzüglich normaler Abnutzung). Lassen Sie uns wissen wenn Sie unsicher sind.",
+    "tags": ["auszug", "renovierung", "schönheitsreparaturen", "mietvertrag"]
+  },
+  {
+    "id": "033",
+    "category": "Auszug",
+    "question": "Wann muss ich alle Schlüssel zurückgeben?",
+    "answer": "Alle Schlüssel müssen spätestens am letzten Miettag zurückgegeben werden, in der Regel beim Abnahmetermin. Dazu gehören alle ausgehändigten Schlüssel wie Wohnungsschlüssel, Haustürschlüssel, Briefkastenschlüssel und Kellerschlüssel. Für nicht zurückgegebene Schlüssel können Kosten entstehen.",
+    "tags": ["auszug", "schlüssel", "rückgabe", "abgabe"]
+  },
+  {
+    "id": "034",
+    "category": "Auszug",
+    "question": "Wie vereinbare ich den Abnahmetermin?",
+    "answer": "Bitte melden Sie sich mindestens vier Wochen vor Ihrem Auszugsdatum um einen Abnahmetermin zu vereinbaren. Sie können den Termin über das Mieterportal oder telefonisch anfragen. Wir bestätigen den Termin schriftlich.",
+    "tags": ["auszug", "abnahme", "termin", "vereinbarung"]
+  },
+  {
+    "id": "035",
+    "category": "Konto",
+    "question": "Wie registriere ich mich im Mieterportal?",
+    "answer": "Nach Abschluss Ihres Mietvertrags erhalten Sie automatisch einen Registrierungslink per E-Mail. Klicken Sie auf den Link und folgen Sie den Anweisungen. Falls Sie keinen Link erhalten haben, kontaktieren Sie uns über das Kontaktformular auf unserer Website.",
+    "tags": ["konto", "portal", "registrierung", "anmeldung"]
+  },
+  {
+    "id": "036",
+    "category": "Konto",
+    "question": "Ich habe mein Passwort vergessen. Was nun?",
+    "answer": "Klicken Sie auf der Login-Seite auf 'Passwort vergessen' und geben Sie Ihre E-Mail-Adresse ein. Sie erhalten innerhalb weniger Minuten eine E-Mail mit einem Link zum Zurücksetzen des Passworts. Prüfen Sie auch Ihren Spam-Ordner.",
+    "tags": ["konto", "passwort", "vergessen", "zurücksetzen"]
+  },
+  {
+    "id": "037",
+    "category": "Konto",
+    "question": "Kann ich meine Kontaktdaten ändern?",
+    "answer": "Ja, Sie können E-Mail-Adresse, Telefonnummer und weitere Kontaktdaten direkt im Mieterportal unter 'Mein Profil' aktualisieren. Für eine Adressänderung (Umzug innerhalb des Hauses) kontaktieren Sie bitte zusätzlich die Hausverwaltung.",
+    "tags": ["konto", "daten", "ändern", "profil", "kontakt"]
+  },
+  {
+    "id": "038",
+    "category": "Konto",
+    "question": "Wie kann ich Dokumente im Portal hochladen?",
+    "answer": "Im Mieterportal finden Sie unter 'Dokumente' die Möglichkeit, Dateien hochzuladen. Unterstützte Formate sind PDF, JPG und PNG bis 10 MB. Sie können Dokumente wie Einkommensnachweise, Schadensfotos oder Kündigungsschreiben hochladen.",
+    "tags": ["konto", "portal", "dokumente", "hochladen", "upload"]
+  },
+  {
+    "id": "039",
+    "category": "Technisch",
+    "question": "Das Mieterportal lädt nicht. Was kann ich tun?",
+    "answer": "Bitte versuchen Sie folgendes: 1. Browser-Cache leeren (Strg+F5 oder Cmd+Shift+R). 2. Anderen Browser testen (Chrome, Firefox, Safari, Edge). 3. Internetverbindung prüfen. 4. Seite nach 10 Minuten erneut versuchen. Falls das Problem bestehen bleibt, kontaktieren Sie unseren Support.",
+    "tags": ["portal", "technisch", "lädt nicht", "cache", "browser"]
+  },
+  {
+    "id": "040",
+    "category": "Technisch",
+    "question": "Warum kann ich mich nicht anmelden?",
+    "answer": "Mögliche Ursachen: Falsches Passwort (nutzen Sie 'Passwort vergessen'), E-Mail-Adresse falsch geschrieben, Konto noch nicht aktiviert (prüfen Sie Ihre E-Mails), oder Browser-Cache muss geleert werden. Bei anhaltenden Problemen kontaktieren Sie unseren Support.",
+    "tags": ["login", "technisch", "anmelden", "passwort", "konto"]
+  },
+  {
+    "id": "041",
+    "category": "Technisch",
+    "question": "Welche Browser werden unterstützt?",
+    "answer": "Das Mieterportal unterstützt die aktuellen Versionen von Chrome, Firefox, Safari und Edge. Internet Explorer wird nicht unterstützt. Bitte stellen Sie sicher, dass Ihr Browser auf dem neuesten Stand ist für die beste Nutzererfahrung.",
+    "tags": ["browser", "technisch", "unterstützung", "chrome", "firefox"]
+  },
+  {
+    "id": "042",
+    "category": "Technisch",
+    "question": "Ich bekomme keine E-Mails vom Portal. Was kann ich tun?",
+    "answer": "Bitte prüfen Sie zunächst Ihren Spam-Ordner. Fügen Sie unsere E-Mail-Adresse zu Ihren vertrauenswürdigen Absendern hinzu. Kontrollieren Sie im Portal ob Ihre E-Mail-Adresse korrekt hinterlegt ist. Bei weiteren Problemen kontaktieren Sie uns telefonisch.",
+    "tags": ["technisch", "email", "spam", "benachrichtigung", "portal"]
+  },
+  {
+    "id": "043",
+    "category": "Allgemein",
+    "question": "Wie erreiche ich die Hausverwaltung?",
+    "answer": "Sie erreichen uns auf mehreren Wegen: Telefonisch unter 030 000 0000 (Mo-Fr 8-17 Uhr), per E-Mail an info@immopilot.de, über das Kontaktformular im Mieterportal, oder persönlich in unserem Büro nach Terminvereinbarung. Für Notfälle steht unser 24h-Notdienst unter 0800 000 0000 zur Verfügung.",
+    "tags": ["kontakt", "hausverwaltung", "telefon", "email", "erreichbarkeit"]
+  },
+  {
+    "id": "044",
+    "category": "Allgemein",
+    "question": "Wann sind die Geschäftszeiten?",
+    "answer": "Unsere Geschäftszeiten sind Montag bis Freitag von 8:00 bis 17:00 Uhr. Donnerstags haben wir bis 18:00 Uhr geöffnet. An Samstagen sind wir von 9:00 bis 12:00 Uhr telefonisch erreichbar. Der Notdienst ist rund um die Uhr erreichbar.",
+    "tags": ["öffnungszeiten", "geschäftszeiten", "kontakt", "erreichbarkeit"]
+  },
+  {
+    "id": "045",
+    "category": "Allgemein",
+    "question": "Wie reiche ich eine Beschwerde ein?",
+    "answer": "Beschwerden können Sie schriftlich per Brief, per E-Mail oder über das Mieterportal einreichen. Bitte schildern Sie Ihr Anliegen möglichst detailliert. Wir bestätigen den Eingang innerhalb von 2 Werktagen und melden uns innerhalb von 5 Werktagen mit einer Antwort.",
+    "tags": ["beschwerde", "service", "feedback", "einreichen"]
+  },
+  {
+    "id": "046",
+    "category": "Allgemein",
+    "question": "Wer ist mein Ansprechpartner?",
+    "answer": "Ihren persönlichen Ansprechpartner finden Sie im Mieterportal unter 'Mein Verwalter'. Dort sind Name, Telefonnummer und E-Mail-Adresse hinterlegt. Bei allgemeinen Anfragen können Sie sich auch an unser zentrales Servicecenter wenden.",
+    "tags": ["ansprechpartner", "kontakt", "verwalter", "zuständig"]
+  },
+  {
+    "id": "047",
+    "category": "Allgemein",
+    "question": "Darf ich Haustiere halten?",
+    "answer": "Kleintiere wie Fische, Hamster oder Vögel in haushaltsüblicher Anzahl sind generell erlaubt. Für Hunde und Katzen benötigen Sie die schriftliche Genehmigung der Hausverwaltung. Bitte reichen Sie eine Anfrage mit Angaben zur Tierart und Rasse ein.",
+    "tags": ["haustiere", "hunde", "katzen", "genehmigung", "erlaubt"]
+  },
+  {
+    "id": "048",
+    "category": "Allgemein",
+    "question": "Wann darf ich Lärm machen und wann gilt Ruhezeit?",
+    "answer": "Ruhezeiten gelten in der Regel täglich von 22:00 bis 6:00 Uhr sowie von 13:00 bis 15:00 Uhr (Mittagsruhe) und den ganzen Sonntag. An gesetzlichen Feiertagen gelten ebenfalls Ruhezeiten. Bitte nehmen Sie Rücksicht auf Ihre Nachbarn.",
+    "tags": ["ruhezeit", "lärm", "nachtruhe", "mittagsruhe", "nachbarn"]
+  },
+  {
+    "id": "049",
+    "category": "Allgemein",
+    "question": "Wie beantrage ich einen Parkplatz?",
+    "answer": "Falls Parkplätze verfügbar sind, können Sie einen über das Mieterportal beantragen. Die monatliche Gebühr richtet sich nach der Lage. Auf einer Warteliste werden Anfragen in der Reihenfolge des Eingangs berücksichtigt.",
+    "tags": ["parkplatz", "garage", "stellplatz", "antrag"]
+  },
+  {
+    "id": "050",
+    "category": "Allgemein",
+    "question": "Kann ich in meiner Wohnung rauchen?",
+    "answer": "In der eigenen Wohnung ist Rauchen grundsätzlich gestattet, sofern im Mietvertrag nichts anderes vereinbart wurde. In Gemeinschaftsbereichen wie Treppenhäusern, Fluren und Keller gilt in der Regel absolutes Rauchverbot. Bitte beachten Sie die Hausordnung.",
+    "tags": ["rauchen", "hausordnung", "gemeinschaftsbereiche", "wohnung"]
+  },
+  {
+    "id": "051",
+    "category": "Miete",
+    "question": "Wie bekomme ich eine Quittung für meine Mietzahlung?",
+    "answer": "Quittungen für Mietzahlungen finden Sie im Mieterportal unter 'Zahlungshistorie'. Dort können Sie alle Buchungen einsehen und als PDF herunterladen. Bei Bedarf können Sie auch eine schriftliche Zahlungsbestätigung bei uns anfordern.",
+    "tags": ["miete", "quittung", "zahlung", "beleg", "nachweis"]
+  },
+  {
+    "id": "052",
+    "category": "Miete",
+    "question": "Was ist eine Mieterhöhung und wann ist sie zulässig?",
+    "answer": "Eine Mieterhöhung ist nur unter bestimmten gesetzlichen Voraussetzungen zulässig, zum Beispiel bis zur ortsüblichen Vergleichsmiete oder nach Modernisierungsmaßnahmen. Sie muss schriftlich mit einer Begründung angekündigt werden und bedarf einer Zustimmungsfrist von mindestens zwei Monaten.",
+    "tags": ["mieterhöhung", "miete", "vergleichsmiete", "zulässig"]
+  },
+  {
+    "id": "053",
+    "category": "Reparaturen",
+    "question": "Was soll ich bei einem Gasgeruch tun?",
+    "answer": "Bei Gasgeruch: 1. Sofort alle Fenster öffnen. 2. Keine elektrischen Schalter betätigen. 3. Wohnung verlassen. 4. Gasnotdienst anrufen: 0800 222 0330. 5. Unseren Notdienst informieren: 0800 000 0000. Kehren Sie erst zurück wenn der Dienst Entwarnung gibt.",
+    "tags": ["gas", "gasgeruch", "notfall", "gefahr", "notdienst"]
+  },
+  {
+    "id": "054",
+    "category": "Reparaturen",
+    "question": "Mein Aufzug funktioniert nicht. Was kann ich tun?",
+    "answer": "Bitte melden Sie den Aufzugsausfall sofort über das Mieterportal oder telefonisch. Falls jemand im Aufzug eingeschlossen ist, rufen Sie sofort den Notruf 112 oder den Aufzugsnotdienst an (Nummer am Aufzug). Wir beauftragen umgehend einen Techniker.",
+    "tags": ["aufzug", "ausfall", "defekt", "eingeschlossen", "notfall"]
+  },
+  {
+    "id": "055",
+    "category": "Einzug",
+    "question": "Kann ich vor dem offiziellen Einzugstermin in die Wohnung?",
+    "answer": "Ein vorzeitiger Zugang zur Wohnung ist nur nach ausdrücklicher schriftlicher Genehmigung möglich. Bitte stellen Sie rechtzeitig eine Anfrage. Beachten Sie dass während eines vorzeitigen Zugangs noch kein Mietverhältnis besteht und Sie keine Rechte als Mieter haben.",
+    "tags": ["einzug", "vorzeitig", "schlüssel", "zugang", "genehmigung"]
+  },
+  {
+    "id": "056",
+    "category": "Auszug",
+    "question": "Was passiert wenn ich die Wohnung nicht rechtzeitig räume?",
+    "answer": "Wenn Sie die Wohnung nicht zum vereinbarten Termin räumen, kann eine Nutzungsentschädigung in Höhe der bisherigen Miete anfallen. Im schlimmsten Fall kann der Vermieter eine Räumungsklage einleiten. Bitte informieren Sie uns frühzeitig wenn Sie den Termin nicht einhalten können.",
+    "tags": ["auszug", "räumung", "termin", "nutzungsentschädigung", "räumungsklage"]
+  },
+  {
+    "id": "057",
+    "category": "Mietvertrag",
+    "question": "Was ist eine Staffelmiete?",
+    "answer": "Bei einer Staffelmiete sind zukünftige Mieterhöhungen bereits im Mietvertrag festgelegt. Die Miete steigt zu vereinbarten Zeitpunkten um festgelegte Beträge. Während der Staffelung sind keine weiteren Mieterhöhungen möglich. Die Staffeln sind im Vertrag klar aufgeführt.",
+    "tags": ["staffelmiete", "mietvertrag", "mieterhöhung", "staffel"]
+  },
+  {
+    "id": "058",
+    "category": "Mietvertrag",
+    "question": "Was ist bei einer Indexmiete zu beachten?",
+    "answer": "Bei einer Indexmiete ist die Miete an den Verbraucherpreisindex gekoppelt. Sie kann nur angepasst werden wenn sich der Index um mindestens 10 Prozent verändert hat. Andere Mieterhöhungen sind während der Indexmietvereinbarung ausgeschlossen.",
+    "tags": ["indexmiete", "mietvertrag", "verbraucherpreisindex", "anpassung"]
+  },
+  {
+    "id": "059",
+    "category": "Allgemein",
+    "question": "Was ist die Hausordnung und wo finde ich sie?",
+    "answer": "Die Hausordnung regelt das Zusammenleben im Haus, zum Beispiel Ruhezeiten, Reinigungspflichten und Nutzung von Gemeinschaftsflächen. Sie finden die Hausordnung im Mieterportal unter 'Dokumente' oder im Treppenhaus ausgehängt. Bei Fragen wenden Sie sich an uns.",
+    "tags": ["hausordnung", "regeln", "gemeinschaft", "treppenhaus"]
+  },
+  {
+    "id": "060",
+    "category": "Allgemein",
+    "question": "Wie melde ich einen Nachbarschaftsstreit?",
+    "answer": "Bitte versuchen Sie zunächst das Gespräch mit dem Nachbarn zu suchen. Falls dies nicht hilft, melden Sie den Vorfall schriftlich über das Mieterportal. Schildern Sie den Sachverhalt sachlich und mit Datum und Uhrzeit. Wir vermitteln bei Bedarf zwischen den Parteien.",
+    "tags": ["nachbarschaft", "streit", "beschwerde", "lärm", "konflikt"]
+  }
+]
