@@ -312,6 +312,55 @@ def page_dashboard():
     csv_data = df.to_csv(index=False).encode("utf-8")
     st.download_button("CSV exportieren", csv_data,
                        f"anfragen_{datetime.now().strftime('%Y%m%d')}.csv", "text/csv")
+    # BA-Evaluationssektion
+    st.markdown('<div class="section-title">Evaluation — Prototyp-Ergebnisse</div>', unsafe_allow_html=True)
+
+    eval_path = os.path.join(os.path.dirname(__file__), "logs/evaluation_results.csv")
+    st.write(f"Suche Datei unter: {eval_path}")
+    st.write(f"Datei existiert: {os.path.exists(eval_path)}")
+    if os.path.exists(eval_path):
+        df_eval = pd.read_csv(eval_path)
+        
+        e1, e2, e3, e4, e5 = st.columns(5)
+        
+        with e1:
+            intent_acc = df_eval["intent_correct"].mean() if "intent_correct" in df_eval.columns else 0
+            color = "#1A7F4B" if intent_acc >= 0.85 else "#C0392B"
+            st.markdown(f'<div class="metric-card"><div class="metric-label">Intent Accuracy</div><div class="metric-value" style="color:{color};">{intent_acc:.1%}</div><div class="metric-sub" style="color:{color};">Ziel: ≥ 85%</div></div>', unsafe_allow_html=True)
+        
+        with e2:
+            avg_conf = df_eval["confidence"].mean() if "confidence" in df_eval.columns else 0
+            color = "#1A7F4B" if avg_conf >= 0.65 else "#C0392B"
+            st.markdown(f'<div class="metric-card"><div class="metric-label">Ø Confidence</div><div class="metric-value" style="color:{color};">{avg_conf:.2f}</div><div class="metric-sub" style="color:{color};">Ziel: > 0.65</div></div>', unsafe_allow_html=True)
+        
+        with e3:
+            esc_rate = df_eval["escalated"].mean() if "escalated" in df_eval.columns else 0
+            color = "#1A7F4B" if 0.10 <= esc_rate <= 0.25 else "#C0392B"
+            st.markdown(f'<div class="metric-card"><div class="metric-label">Eskalationsrate</div><div class="metric-value" style="color:{color};">{esc_rate:.1%}</div><div class="metric-sub" style="color:{color};">Ziel: 10–25%</div></div>', unsafe_allow_html=True)
+        
+        with e4:
+            avg_time = df_eval["antwortzeit"].mean() if "antwortzeit" in df_eval.columns else 0
+            color = "#1A7F4B" if avg_time < 3.0 else "#C0392B"
+            st.markdown(f'<div class="metric-card"><div class="metric-label">Ø Antwortzeit</div><div class="metric-value" style="color:{color};">{avg_time:.2f}s</div><div class="metric-sub" style="color:{color};">Ziel: < 3 Sek.</div></div>', unsafe_allow_html=True)
+        
+        with e5:
+            auto_rate = 1 - esc_rate
+            st.markdown(f'<div class="metric-card"><div class="metric-label">Automatisierungsrate</div><div class="metric-value" style="color:#1A7F4B;">{auto_rate:.1%}</div><div class="metric-sub" style="color:#1A7F4B;">FCR-Näherungswert</div></div>', unsafe_allow_html=True)
+
+        # Zielwert-Check Tabelle
+        st.markdown("")
+        ziele = {
+            "Intent Accuracy ≥ 85%": (intent_acc >= 0.85, f"{intent_acc:.1%}"),
+            "Ø Confidence > 0.65": (avg_conf >= 0.65, f"{avg_conf:.2f}"),
+            "Eskalationsrate 10–25%": (0.10 <= esc_rate <= 0.25, f"{esc_rate:.1%}"),
+            "Antwortzeit < 3 Sek.": (avg_time < 3.0, f"{avg_time:.2f} Sek."),
+        }
+        for ziel, (erreicht, wert) in ziele.items():
+            farbe = "#1A7F4B" if erreicht else "#C0392B"
+            symbol = "✓" if erreicht else "✗"
+            st.markdown(f'<div style="display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid #F0F2F5;font-size:14px;"><span>{ziel}</span><span style="color:{farbe};font-weight:500;">{symbol} {wert}</span></div>', unsafe_allow_html=True)
+    else:
+        st.info("Noch keine Evaluationsdaten vorhanden. Bitte evaluate.py ausführen.")
 
 
 def page_copilot():
