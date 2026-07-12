@@ -402,7 +402,7 @@
     "id": "058",
     "category": "Mietvertrag",
     "question": "Was ist bei einer Indexmiete zu beachten?",
-    "answer": "Bei einer Indexmiete ist die Miete an den Verbraucherpreisindex gekoppelt. Sie kann nur angepasst werden wenn sich der Index um mindestens 10 Prozent verändert hat. Andere Mieterhöhungen sind während der Indexmietvereinbarung ausgeschlossen.",
+    "answer": "Bei der Indexmiete (§ 557b BGB) ist die Miete an den Verbraucherpreisindex gekoppelt; die Miete muss jeweils mindestens ein Jahr unverändert bleiben. Andere Mieterhöhungen sind während der Indexmietvereinbarung ausgeschlossen.",
     "tags": ["indexmiete", "mietvertrag", "verbraucherpreisindex", "anpassung"]
   },
   {

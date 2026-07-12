@@ -156,7 +156,9 @@ def run_evaluation():
             "confidence": result["confidence"],
             "escalated": result["escalate"],
             "antwortzeit": elapsed,
-            "answer_len": len(result["answer"])
+            "answer_len": len(result["answer"]),
+            "answer_full": result["answer"],
+            "sources": " ||| ".join(str(s) for s in result.get("sources", []))
         })
 
     df = pd.DataFrame(results)
